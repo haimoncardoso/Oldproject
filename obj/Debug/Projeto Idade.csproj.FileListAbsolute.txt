@@ -1,0 +1,20 @@
+E:\Curso\Projeto Idade\bin\Debug\Projeto Idade.exe.config
+E:\Curso\Projeto Idade\bin\Debug\Projeto Idade.exe
+E:\Curso\Projeto Idade\bin\Debug\Projeto Idade.pdb
+E:\Curso\Projeto Idade\obj\Debug\Projeto Idade.csprojAssemblyReference.cache
+E:\Curso\Projeto Idade\obj\Debug\Projeto_Idade.FrmProjetoIdade.resources
+E:\Curso\Projeto Idade\obj\Debug\Projeto_Idade.Properties.Resources.resources
+E:\Curso\Projeto Idade\obj\Debug\Projeto Idade.csproj.GenerateResource.cache
+E:\Curso\Projeto Idade\obj\Debug\Projeto Idade.csproj.CoreCompileInputs.cache
+E:\Curso\Projeto Idade\obj\Debug\Projeto Idade.exe
+E:\Curso\Projeto Idade\obj\Debug\Projeto Idade.pdb
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\bin\Debug\Projeto Idade.exe.config
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\bin\Debug\Projeto Idade.exe
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\bin\Debug\Projeto Idade.pdb
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\obj\Debug\Projeto Idade.csprojAssemblyReference.cache
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\obj\Debug\Projeto_Idade.FrmProjetoIdade.resources
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\obj\Debug\Projeto_Idade.Properties.Resources.resources
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\obj\Debug\Projeto Idade.csproj.GenerateResource.cache
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\obj\Debug\Projeto Idade.csproj.CoreCompileInputs.cache
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\obj\Debug\Projeto Idade.exe
+F:\C# 2020 - Obra social dom Bosco\Projeto Idade\obj\Debug\Projeto Idade.pdb
